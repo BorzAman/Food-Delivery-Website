@@ -31,7 +31,6 @@
 ## Screenshots
 
 ![Hero](https://i.ibb.co/59cwY75/food-hero.png)
-![Hero](https://ibb.co/TDGxgj3g)
 - Hero Section
 
 ![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
