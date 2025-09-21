@@ -5,7 +5,8 @@
 
 ## Demo
 
-- User Panel: [https://foodingofooddelivery.onrender.com/](https://foodingofooddelivery.onrender.com/)- Admin Panel: 
+- User Panel: [https://foodingofooddelivery.onrender.com/](https://foodingofooddelivery.onrender.com/)
+- Admin Panel: 
 
 ## Features
 
