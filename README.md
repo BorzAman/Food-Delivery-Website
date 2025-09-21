@@ -30,16 +30,16 @@
 
 ## Screenshots
 
-![Hero](https://i.ibb.co/59cwY75/food-hero.png)
+![Hero](testing2/home.png)
 - Hero Section
 
 ![Products](https://i.ibb.co/JnNQPyQ/food-products.png)
 - Products Section
 
-![Cart](https://i.ibb.co/t2LrQ8p/food-cart.png)
+![Cart](testing2/cart.png)
 - Cart Page
 
-![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
+![Login](testing2/login.png)
 - Login Popup
 
 ## Run Locally
