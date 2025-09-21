@@ -39,6 +39,10 @@
     display: flex;
     gap: 2vw;
 }
+.button button{
+    background-color: tomato;
+    color: white;
+}
 
 
 @media (max-width:800px) {
