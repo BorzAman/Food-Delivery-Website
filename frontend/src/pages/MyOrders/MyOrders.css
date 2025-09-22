@@ -35,6 +35,27 @@
     cursor: pointer;
     color: #454545;
 }
+.back{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.back-button{
+    width: 100px;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: tomato;
+    cursor: pointer;
+    font-weight: 500;
+}
+.back-button :hover{
+    background-color: #ff6347;
+    color: white;
+}
+
 @media (max-width:900px) {
     .my-orders-order{
         grid-template-columns: 1fr 2fr 1fr;
