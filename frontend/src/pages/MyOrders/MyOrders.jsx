@@ -3,9 +3,11 @@ import './MyOrders.css'
 import {StoreContext} from '../../context/StoreContext.jsx'
 import axios from "axios";
 import {assets} from '../../assets/assets.js'
+import { useNavigate } from 'react-router-dom';
 
 const MyOrders = () => {
-
+  
+  const navigate = useNavigate();
   const {url, token} = useContext(StoreContext)
   const [data, setData] = useState([])
 
@@ -51,7 +53,10 @@ const MyOrders = () => {
           )
          })}
       </div>
-      
+      <div className='back'>
+        <div className='back-button' onClick={() => navigate('/')}>Back</div>
+      </div>
+
     </div>
   )
 }
